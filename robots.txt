@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://veasylvan.github.io/sitemap.html.gz
+Sitemap: https://veasylvan.github.io/app/sitemap.html.gz
+Sitemap: https://veasylvan.github.io/assets/sitemap.html.gz
+Sitemap: https://veasylvan.github.io/css/sitemap.html.gz
+Sitemap: https://veasylvan.github.io/includes/sitemap.html.gz
+Sitemap: https://veasylvan.github.io/item/sitemap.html.gz
+Sitemap: https://veasylvan.github.io/src/sitemap.html.gz
